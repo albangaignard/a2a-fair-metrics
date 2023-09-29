@@ -1,0 +1,19 @@
+<https://s11.no/2022/a2a-fair-metrics/77-rda-r1-03m-t3-license-described_by/dataset.ttl#dataset> 
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> ;
+  <http://www.w3.org/ns/dcat#landingPage> <https://s11.no/2022/a2a-fair-metrics/77-rda-r1-03m-t3-license-described_by/index.html> ;
+  <http://www.w3.org/ns/dcat#distribution> <https://s11.no/2022/a2a-fair-metrics/77-rda-r1-03m-t3-license-described_by/dataset.ttl#test-apple-data-csv> ;
+  <http://www.w3.org/ns/dcat#distribution> <https://s11.no/2022/a2a-fair-metrics/77-rda-r1-03m-t3-license-described_by/dataset.ttl#test-apple-data-ods> ;
+  <http://purl.org/dc/terms/license> <https://spdx.org/licenses/CC0-1.0> ; 
+  <https://schema.org/license> <https://spdx.org/licenses/CC0-1.0> .
+  
+<https://s11.no/2022/a2a-fair-metrics/77-rda-r1-03m-t3-license-described_by/dataset.ttl#test-apple-data-csv> 
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Distribution> ;
+  <http://www.w3.org/ns/dcat#downloadURL> <https://s11.no/2022/a2a-fair-metrics/77-rda-r1-03m-t3-license-described_by/test-apple-data.csv> ;
+  <http://www.w3.org/ns/dcat#mediaType> <https://www.iana.org/assignments/media-types/text/csv> .
+  
+
+<https://s11.no/2022/a2a-fair-metrics/77-rda-r1-03m-t3-license-described_by/dataset.ttl#test-apple-data-ods> 
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Distribution> ;
+  <http://www.w3.org/ns/dcat#downloadURL> <https://s11.no/2022/a2a-fair-metrics/77-rda-r1-03m-t3-license-described_by/test-apple-data.ods> ;
+  <http://www.w3.org/ns/dcat#mediaType> <https://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.spreadsheet> .
+  
