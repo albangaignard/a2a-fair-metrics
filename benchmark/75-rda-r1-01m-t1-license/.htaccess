@@ -1,3 +1,0 @@
-<Files index.html>
-  Header add Link <https://spdx.org/licenses/CC0-1.0.html/>;rel="license"
-</Files>
